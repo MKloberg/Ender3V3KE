@@ -38,7 +38,8 @@ About a month or so into heavy printing, you may notice some strange whirring so
 There are countless reports on this now and people are even saying this is normal. I can assure you that it isn't.
 This sound comes from the bearings falling apart in this fan and unless it is fixed, print quality will drop progressively. The heat break wants adequate cooling which it is not getting if you ignore this.
 The most cost effective solution I found so far was to get these fans, clip off the cable of the old fan and solder the two wires (red<>red/black<>black) togehter to restore it to a working unit.
-https://www.amazon.com/dp/B07KS5P1KV
+https://www.amazon.com/dp/B07KS5P1KV 
+There are two versions of this 2510 fan, a hyraulic bearing version and a ball bearing version, the recommendation is the ball bearing version of the fan because it has a longer life span (50,000 hours).
 
 3. 
 
