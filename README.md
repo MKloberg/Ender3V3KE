@@ -27,6 +27,21 @@ It doesn't take much guess work to figure out what that was:
 
 One of the printers that meet all these requirements to some extent is the Creality Ender3 V3 KE.
 
+Now that you know where I'm coming from, let's talk about the problems that I ran into so far and how to fix these to make this printer a reliable workhorse:
+
+1. The factory PEI sheet it comes with is junk.
+Once you receive your new Creality Ender3 V3 KE, I urge you to put the PEI sheet right then and there into the nearest trash container, because it is utterly bad. It's too coarse and if you choose to accept this will fight this for a few months (as I did).
+Instead, get one of the golden standard sheets that are readily available: https://www.amazon.com/gp/product/B0BRCRX6T9
+
+2. The 2510 hotend fan is junk.
+About a month or so into heavy printing, you may notice some strange whirring sounds on the start of a print.
+There are countless reports on this now and people are even saying this is normal. I can assure you that it isn't.
+This sound comes from the bearings falling apart in this fan and unless it is fixed, print quality will drop progressively. The heat break wants adequate cooling which it is not getting if you ignore this.
+The most cost effective solution I found so far was to get these fans, clip off the cable of the old fan and solder the two wires (red<>red/black<>black) togehter to restore it to a working unit.
+https://www.amazon.com/dp/B07KS5P1KV
+
+3. 
+
 
 
 
